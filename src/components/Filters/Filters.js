@@ -6,7 +6,7 @@ const Filters = () => {
   const { filters, clearFilters, updateFilters } = useContext(FilterContext);
 
   const categories = ["men", "women"];
-  const brand = ["zara", "nike", "wildstore"];
+  const brand = ["zara", "nike", "wildstore","quote", "happy", "mufti","apple","oscar", "adidas"];
   const sizes = ["s", "m", "l", "xl"];
   const sortList = ["high-to-low", "low-to-high"];
 

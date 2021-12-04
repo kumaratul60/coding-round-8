@@ -88,5 +88,65 @@
     "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
     "sizes": ["s", "l", "xl"],
     "brand": "wildstore"
+  },
+  {
+    "id": 21,
+    "title": "DANVOUY  mens T Shirt Casual Cotton Short",
+    "price": 1.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "men",
+    "image": "https://5.imimg.com/data5/CR/OL/NO/ANDROID-36904487/img-20181220-wa0001-jpg-500x500.jpg",
+    "sizes": ["s", "l", "xl"],
+    "brand": "oscar"
+  },
+  {
+    "id": 22,
+    "title": "Random T Shirt Casual Cotton Short",
+    "price": 5.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "men",
+    "image": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F01%2F26%2F21%2F38%2F27%2F9e6ce5bb-4ee0-4618-9a58-00b9d4487c0b%2F129788_Ivanpratt.png",
+    "sizes": ["s", "l", "xl"],
+    "brand": "adidas"
+  },
+  {
+    "id": 23,
+    "title": "cheome Womens T Shirt Casual Cotton Short",
+    "price": 100.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women",
+    "image": "https://i.pinimg.com/originals/dc/da/b2/dcdab23b0c6dab72e07448710559680c.jpg",
+    "sizes": ["s", "l", "xl"],
+    "brand": "apple"
+  },
+  {
+    "id": 24,
+    "title": "Quote T-Shirt ",
+    "price": 125.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "men",
+    "image": "https://image.spreadshirtmedia.com/image-server/v1/mp/products/T210A2MPA3176PT17X35Y44D1035601547FS2732/views/1,width=600,height=600,appearanceId=2,backgroundColor=F2F2F2,modelId=1543,crop=list/laundry-the-only-thing-separated-by-color-quote-mens-t-shirt.jpg",
+    "sizes": ["s", "l", "xl"],
+    "brand": "quote"
+  },
+  {
+    "id": 25,
+    "title": "Happy T-Shirt ",
+    "price": 1250.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "men",
+    "image": "https://blog.placeit.net/wp-content/uploads/2020/04/tee-mockup-of-a-joyful-woman-holding-a-glass-of-water.png",
+    "sizes": ["s", "l", "xl"],
+    "brand": "happy"
+  },
+  {
+    "id": 26,
+    "title": "V T-Shirt ",
+    "price": 25.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dCUyMHNoaXJ0JTIwZGVzaWdufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "sizes": ["s", "l", "xl"],
+    "brand": "mufti"
   }
 ]

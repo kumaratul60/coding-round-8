@@ -5,7 +5,7 @@ function Header() {
   return (
     <nav>
       <div className="section-center nav-center">
-        <h4>Flipkart</h4>
+        <h4>Clothcart</h4>
         <input type="text" />
         <button className="btn">Login</button>
       </div>
